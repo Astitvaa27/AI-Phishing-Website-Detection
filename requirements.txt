@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+pandas
+scikit-learn
+python-Levenshtein
+python-whois
+reportlab
