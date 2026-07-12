@@ -171,3 +171,9 @@ The model was trained using phishing and legitimate website datasets containing 
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
+
+## Screenshots
+<img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/ac057ca7-f785-444e-af2d-2b6e50c22512" />
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/82c1b5ae-36e3-49fc-91a4-2d6ad1c745de" />
+
+
